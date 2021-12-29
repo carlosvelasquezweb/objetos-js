@@ -1,6 +1,5 @@
-/*
-    Objeto Prestamo
-*/
+//Objeto Prestamo
+
 class Prestamo {
     constructor(monto, cuotas) {
         this.monto = monto,
